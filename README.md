@@ -4,7 +4,7 @@
 
 
 ## 🎓 About Me
-I am a Beerain **BCA student** with a passion for **full-stack development**. I have recently completed my front-end training and built my portfolio website, [Beerain.me](https://beerain.me). Currently, I am diving into back-end development to enhance my skills and bring dynamic web applications to life.
+I am a **BCA student** with a passion for **full-stack development**. I have recently completed my front-end training and built my portfolio website, [Beerain.me](https://beerain.me). Currently, I am diving into back-end development to enhance my skills and bring dynamic web applications to life.
 
 ---
 
