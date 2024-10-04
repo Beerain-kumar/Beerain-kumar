@@ -51,7 +51,7 @@ Here are some of my projects:
 1. **[Portfolio Website](https://beerain.me)**  
    *My personal portfolio showcasing my projects and skills.*
 
-2. **[Random Color Generator with RGB code]([https://github.com/yourusername/project2](https://beerain-kumar.github.io/Random_Colour_Generator/))**  
+2. **[Random Color Generator with RGB code](https://beerain-kumar.github.io/Random_Colour_Generator/)** 
    *ColorPick generates vibrant, random colors instantly, Get the RGB code .ColorPick is powerful online tool With just a click,
    you can get a unique RGB color code that you can use in your designs, websites, or any other project.*
 
