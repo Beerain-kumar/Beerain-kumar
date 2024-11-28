@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Beerain!
+# 👋 Hello!
 
  ![github-header-image](https://github.com/user-attachments/assets/47b976c3-8768-4480-8565-edf8225a966b)
 
